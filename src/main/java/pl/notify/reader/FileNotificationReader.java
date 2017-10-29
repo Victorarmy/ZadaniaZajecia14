@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class FileNotificationReader {
+public class FileNotificationReader implements NotificationReader {
 
     public List<Notification> getNotifications() throws IOException {
         List<String> notificationsString = Files.readAllLines(Paths.get("notifications.csv"));

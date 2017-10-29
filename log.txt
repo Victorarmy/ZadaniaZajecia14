@@ -1,0 +1,4 @@
+LOG INFO 1509311868723 Notification{username='ZWYKLY', email='asdf', telephone='123', content='sdf'}
+LOG INFO 1509311892723 Notification{username='AUTO', email='asdf', telephone='asdf', content='123'}
+LOG INFO 1509311920945 Notification{username='JAVA', email='asdf', telephone='asdf', content='234'}
+LOG INFO 1509311941847 Notification{username='XML', email='asd', telephone='125313254', content='fdg'}
